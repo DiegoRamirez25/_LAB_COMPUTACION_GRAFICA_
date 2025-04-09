@@ -1,0 +1,64 @@
+# Blender 4.4.0 MTL File: 'P9.blend'
+# www.blender.org
+
+newmtl Material__2
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+Pr 0.900000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd prunus_pendula_branch_3_1_diffuse.jpg
+map_Bump -bm 1.000000 prunus_pendula_branch_1_4_normal.jpg
+
+newmtl Material__2.001
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+Pr 0.900000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd prunus_pendula_branch_3_1_diffuse.jpg
+map_Bump -bm 1.000000 prunus_pendula_branch_1_4_normal.jpg
+
+newmtl Material__3
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+Pr 0.900000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Prunus_pendula_flower_01_diffuse_1.jpg
+map_d Prunus_pendula_flower_03_mask.jpg
+
+newmtl Material__3.001
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+Pr 0.900000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Prunus_pendula_flower_01_diffuse_1.jpg
+map_d Prunus_pendula_flower_03_mask.jpg
